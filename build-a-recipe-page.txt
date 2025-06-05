@@ -1,0 +1,38 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>how to make homemade spaghetti</title>
+  </head>
+  <body>
+    <h1>how to make homemade spaghetti</h1>
+    <p>homemade spaghetti is fun to make. it will have to cool after being made so dont make it with a time limit (unless the time limit is long).</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>4 eggs</li>
+      <li>enough flour to hold the eggs</li>
+      <li>spaghetti sauce can</li>
+      <li>1 table spoon of melted butter</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>get a large pot and put water inside. boil the water. make a flour bowl, crack the eggs and put them inside of the flour bowl</li>
+      <img src="https://www.shutterstock.com/image-photo/three-eggs-surrounded-by-wheat-260nw-1706442172.jpg" alt="3 eggs surrounded by flour (pretend theres 4)">
+      <li>mix the eggs with the flour and knead it for like 10 minutes i forget</li>
+      <li>cool down the dough in the fridge for like a hour? i forget again. when done, stretch the dough and flatten it, then cut the dough into strips</li>
+      <li>add the spaghetti strips into the pot and stir occasionally until you think its good enough idk the spaghetti already conforms to the shape of the pot so like do it until you think the spaghetti is hot</li>
+      <li>finally, strain the spaghetti to get rid of the water and put it on a plate/in a bowl, then mix in the spaghetti sauce and butter</li>
+    </ol>
+    <img src="https://www.aberdeenskitchen.com/wp-content/uploads/2020/09/Homemade-Pasta-Dough-Recipe-4.jpg" alt="homemade spaghetti noodles">
+    <p>this is what the noodles should look like minus the flour</p>
+    <img src="https://thestayathomechef.com/wp-content/uploads/2021/05/Homemade-Spaghetti-Sauce-Recipe-4.jpg" alt="spaghetti sauce">
+    <p>just spaghetti sauce</p>
+    <h3>result</h3>
+    <p>the homemade spaghetti you just made will either look like the pictures if they combined or look not that good, i didnt fact check this recipe yet so idk</p>
+  </body>
+</html>
+
+** end of index.html **
+
